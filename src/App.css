@@ -42,6 +42,7 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
 .site-wrapper {
   width: 100vw;
   height: 100vh;
