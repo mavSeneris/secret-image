@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Home</div>
+    <div>Register or login to view secret image. Thank you</div>
   )
 }
